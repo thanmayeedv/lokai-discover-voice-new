@@ -1,56 +1,30 @@
-# Welcome to your Lovable project
+LokAI is a modern web application that lets users explore and discover local services using voice interaction and AI technology. Designed with simplicity and speed in mind, it brings the power of voice-enabled discovery to everyday users — no typing needed.
 
-## Project info
+🎤 Talk. Discover. Explore.
+Use your voice to search for nearby services, find recommendations, and get relevant information faster and more naturally than traditional search.
 
-**URL**: https://lovable.dev/projects/b75f4a76-c774-4537-a83e-748f3ac768e8
+🚀 Features
 
-## How can I edit this code?
+🔊 Voice-Powered Discovery – Speak your query and instantly find local services.
 
-There are several ways of editing your application.
+📍 Smart Local Search – Built to help users quickly locate what they need nearby.
 
-**Use Lovable**
+⚡ Fast and Responsive UI – Lightweight front-end built for speed and ease of use.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b75f4a76-c774-4537-a83e-748f3ac768e8) and start prompting.
+📦 Ready to Deploy – Easily host anywhere (currently deployed on Vercel).
 
-Changes made via Lovable will be committed automatically to this repo.
+🔗 Live Demo
 
-**Use your preferred IDE**
+👉 Check it out here:
+https://lokai-discover-voice-new.vercel.app/
+#How It Works (High-Level)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+LokAI leverages voice recognition and AI to interpret spoken input and turn it into smart discovery actions. Instead of typing, users can speak natural questions like:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+“Find a nearby coffee shop.”
+“Show dental clinics near me.”
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
+The app processes the voice input, converts it to text, and then returns relevant local results — making discovery fast and conversational
 
 This project is built with:
 
@@ -60,14 +34,5 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/b75f4a76-c774-4537-a83e-748f3ac768e8) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
